@@ -24,7 +24,7 @@ function App() {
         </nav>
       </header>
       <Routes>
-        <Route path="/" element={<AboutMe />} />
+        <Route path="/cw" element={<AboutMe />} />
         <Route path="/fullstack" element={<Fullstack />} />
         <Route path="/technicalSupport" element={<TechnicalSupport />} />
         <Route path="/telecommunications" element={<Telecommunications />} />
