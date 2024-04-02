@@ -18,9 +18,9 @@ function App() {
         <nav className="Nav-link">
           <AMLink to="/cw/">About me</AMLink>
           <FsLink to="/cw/fullstack">Fullstack</FsLink>
-          <TSLink to="/technicalSupport">Technical</TSLink>
-          <TelLink to="/telecommunications">Telecommunications</TelLink>
-          <SEOLink to="/seo-content">Content</SEOLink>
+          <TSLink to="/cw/technicalSupport">Technical</TSLink>
+          <TelLink to="/cw/telecommunications">Telecommunications</TelLink>
+          <SEOLink to="/cw/seo-content">Content</SEOLink>
         </nav>
       </header>
       <Routes>
