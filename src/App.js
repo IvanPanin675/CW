@@ -16,19 +16,19 @@ function App() {
     <div className="App">
       <header>
         <nav className="Nav-link">
-          <AMLink to="/cw/">About me</AMLink>
-          <FsLink to="/cw/fullstack">Fullstack</FsLink>
-          <TSLink to="/cw/technicalSupport">Technical</TSLink>
-          <TelLink to="/cw/telecommunications">Telecommunications</TelLink>
-          <SEOLink to="/cw/seo-content">Content</SEOLink>
+          <AMLink to="/">About me</AMLink>
+          <FsLink to="/fullstack">Fullstack</FsLink>
+          <TSLink to="/technicalSupport">Technical</TSLink>
+          <TelLink to="/telecommunications">Telecommunications</TelLink>
+          <SEOLink to="/seo-content">Content</SEOLink>
         </nav>
       </header>
       <Routes>
-        <Route path="/cw/" element={<AboutMe />} />
-        <Route path="/cw/fullstack" element={<Fullstack />} />
-        <Route path="/cw/technicalSupport" element={<TechnicalSupport />} />
-        <Route path="/cw/telecommunications" element={<Telecommunications />} />
-        <Route path="/cw/seo-content" element={<SeoContentManager />} />
+        <Route path="/" element={<AboutMe />} />
+        <Route path="/fullstack" element={<Fullstack />} />
+        <Route path="/technicalSupport" element={<TechnicalSupport />} />
+        <Route path="/telecommunications" element={<Telecommunications />} />
+        <Route path="/seo-content" element={<SeoContentManager />} />
       </Routes>
     </div>
   );
