@@ -38,6 +38,7 @@ export const AboutMe = () => {
           <p>Ukrainian and Russian: Free</p>
         </li>
       </ul>
+      
     </main>
   );
 };
