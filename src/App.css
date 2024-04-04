@@ -3,14 +3,7 @@
  }
  
  .App {
-  display: flex;
-  width: auto;
   text-align: center;
-  flex-direction: row;
-  position: relative;
-  
-  
-  /* position: relative; */
 }
 
 .App-logo {

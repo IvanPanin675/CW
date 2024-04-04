@@ -12,10 +12,10 @@ function App ()  {
     <div className="App">
       <header>
         <nav className="Nav-link">
-          <StyleLink background='linear-gradient(180deg, #385ced, black)' to="/">AboutMe</StyleLink>
-          <StyleLink background='linear-gradient(180deg, green, black)' to="/fullstack">Fullstack</StyleLink>
-          <StyleLink background='linear-gradient(180deg, #273fdc, #ffffff)' to="/technicalSupport">Technical</StyleLink>
-          <StyleLink background='linear-gradient(180deg, #1701a8, #1c90ce)' to="/telecommunications">Telecommunications</StyleLink>
+          <StyleLink background='linear-gradient(180deg, #385ced, black)' backgactive='linear-gradient(180deg, black, #385ced)' to="/">AboutMe</StyleLink>
+          <StyleLink to="/fullstack">Fullstack</StyleLink>
+          <StyleLink to="/technicalSupport">Technical</StyleLink>
+          <StyleLink to="/telecommunications">Telecommunications</StyleLink>
           <StyleLink to="/seo-content">Content</StyleLink>
         </nav>
       </header>
