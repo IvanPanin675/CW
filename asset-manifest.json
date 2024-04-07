@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cw/static/css/main.5dd4485d.css",
-    "main.js": "/cw/static/js/main.abf8b2b7.js",
+    "main.js": "/cw/static/js/main.244fb0c2.js",
     "static/media/fullsta.jpg": "/cw/static/media/fullsta.557c80abe332b56ad0fa.jpg",
     "static/media/photo.jpg": "/cw/static/media/photo.ad76903367551d392452.jpg",
     "static/media/telecommunication.jpg": "/cw/static/media/telecommunication.5467c49cbc435bedaf0d.jpg",
@@ -9,10 +9,10 @@
     "static/media/fon.jpg": "/cw/static/media/fon.0e8bc0c177c21abfc6ce.jpg",
     "index.html": "/cw/index.html",
     "main.5dd4485d.css.map": "/cw/static/css/main.5dd4485d.css.map",
-    "main.abf8b2b7.js.map": "/cw/static/js/main.abf8b2b7.js.map"
+    "main.244fb0c2.js.map": "/cw/static/js/main.244fb0c2.js.map"
   },
   "entrypoints": [
     "static/css/main.5dd4485d.css",
-    "static/js/main.abf8b2b7.js"
+    "static/js/main.244fb0c2.js"
   ]
 }
